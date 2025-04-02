@@ -1,0 +1,19 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="com.epam.de.dsalgo.module1.pss.ComputeStatsOfString" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="com.epam.de.dsalgo.module1.pss.PatternPrint" />
+    <module name="main" />
+    <extension name="coverage">
+      <pattern>
+        <option name="PATTERN" value="com.epam.de.dsalgo.module1.pss.*" />
+        <option name="ENABLED" value="true" />
+      </pattern>
+      <pattern>
+        <option name="PATTERN" value="com.epam.de.dsalgo.module1.pss.ComputeStatsOfString" />
+        <option name="ENABLED" value="false" />
+      </pattern>
+    </extension>
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
